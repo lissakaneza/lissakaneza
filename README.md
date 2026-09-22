@@ -48,6 +48,6 @@ B.S. in Computer Science
 
 ## 📫 Connect With Me
 
-**LinkedIn:** [Lissa Kaneza](YOUR_LINKEDIN_LINK)
+**LinkedIn:** Lissa kaneza 
 
 **GitHub:** [@lissakaneza](https://github.com/lissakaneza)
