@@ -1,4 +1,4 @@
-# Hi, I'm Lissa 👋🏽
+# Hi, I'm Lissa 👋
 
 I'm a Computer Science student at **The City College of New York (CCNY)** with an interest in **Data, Artificial Intelligence, Machine Learning, and Computer Vision**.
 
